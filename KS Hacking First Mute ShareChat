@@ -25,15 +25,15 @@
   
   
   
-  "Update_Type": "true",
+  "Update_Type": "false",
   
-  "New_Version": "17.10.7",
+  "New_Version": "2023.14.7",
   
-  "Show_Time": "0",
+  "Show_Time": "1",
   
   
   
-  "isCancelable": "true",
+  "isCancelable": "false",
   
   "Cancel_Button_Text_Color": "#FF009ACD",
   
